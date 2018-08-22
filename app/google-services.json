@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74953497922",
+    "firebase_url": "https://fir-otochat.firebaseio.com",
+    "project_id": "fir-otochat",
+    "storage_bucket": "fir-otochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74953497922:android:fcdc318d57698dc4",
+        "android_client_info": {
+          "package_name": "com.ebwebtech.firebaseotochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74953497922-3mu36r6i6l39lc40bi6e2ssembeifvfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebwebtech.firebaseotochat",
+            "certificate_hash": "ea0d050a8bb7d7b74435a6fe57fa053f101df4cd"
+          }
+        },
+        {
+          "client_id": "74953497922-pv6u2eafq3gafputj8rlmk10n76t3lhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZV7bywIzGrujlq7KPqDBbQcwik3up0Cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74953497922-pv6u2eafq3gafputj8rlmk10n76t3lhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
